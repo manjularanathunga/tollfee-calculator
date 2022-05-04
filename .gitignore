@@ -2,6 +2,6 @@
 *.o
 
 # Ada Library Information
-*.ali
+*.class
 /target/
 /.idea/
