@@ -46,8 +46,7 @@ class TollCalculatorTest {
 
     @Test
     void calculatefees_city_name_wrong() {
-        TollFeeRequest request = new TollFeeRequest();
-        request.setCityName("NOCITY");
+        TollFeeRequest request = TollFeeRequest.builder().cityName("NOCITY").build();
         //double results =  tollCalculator.calculateFees(request);
         Throwable exception = assertThrows(NotFoundException.class, () -> {
             tollCalculator.calculateFees(request);
