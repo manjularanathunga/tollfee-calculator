@@ -1,0 +1,12 @@
+tollfee:
+  default:
+    year: Y2013
+server:
+  port: 8085
+# Logger configuration
+logging:
+  pattern:
+    console: "%d %-5level %logger : %msg%n"
+  level:
+    org.springframework: INFO
+    org.hibernate: INFO
