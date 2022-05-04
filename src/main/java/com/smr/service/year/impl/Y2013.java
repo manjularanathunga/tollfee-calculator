@@ -1,6 +1,6 @@
-package com.afry.service.year.impl;
+package com.smr.service.year.impl;
 
-import com.afry.service.year.DateOnYear;
+import com.smr.service.year.DateOnYear;
 
 import java.util.Calendar;
 

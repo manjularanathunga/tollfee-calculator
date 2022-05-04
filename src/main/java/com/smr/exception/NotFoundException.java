@@ -1,4 +1,4 @@
-package com.afry.exception;
+package com.smr.exception;
 
 import lombok.extern.slf4j.Slf4j;
 

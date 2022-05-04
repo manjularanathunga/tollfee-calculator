@@ -1,4 +1,4 @@
-package com.afry.service.city;
+package com.smr.service.city;
 
 import org.springframework.stereotype.Service;
 

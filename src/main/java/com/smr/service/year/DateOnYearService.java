@@ -1,8 +1,8 @@
-package com.afry.service.year;
+package com.smr.service.year;
 
 
-import com.afry.service.year.impl.Y2013;
-import com.afry.service.year.impl.Y2014;
+import com.smr.service.year.impl.Y2013;
+import com.smr.service.year.impl.Y2014;
 import org.springframework.stereotype.Service;
 
 @Service

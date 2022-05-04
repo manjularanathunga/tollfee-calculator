@@ -1,4 +1,4 @@
-package com.afry.rest;
+package com.smr.rest;
 
 import lombok.Data;
 import lombok.ToString;

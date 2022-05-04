@@ -1,4 +1,4 @@
-package com.afry.service.year;
+package com.smr.service.year;
 
 /**
  * The interface is define to

@@ -1,8 +1,8 @@
-package com.afry.service.vehicle;
+package com.smr.service.vehicle;
 
 
-import com.afry.service.vehicle.impl.Car;
-import com.afry.service.vehicle.impl.Motorbike;
+import com.smr.service.vehicle.impl.Car;
+import com.smr.service.vehicle.impl.Motorbike;
 import org.springframework.stereotype.Service;
 
 @Service

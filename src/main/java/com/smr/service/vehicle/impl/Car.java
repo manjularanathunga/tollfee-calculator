@@ -1,6 +1,6 @@
-package com.afry.service.vehicle.impl;
+package com.smr.service.vehicle.impl;
 
-import com.afry.service.vehicle.Vehicle;
+import com.smr.service.vehicle.Vehicle;
 
 
 public class Car implements Vehicle {

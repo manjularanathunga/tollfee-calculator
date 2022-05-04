@@ -1,8 +1,8 @@
-package com.afry.controller;
+package com.smr.controller;
 
-import com.afry.TollCalculator;
-import com.afry.rest.TollFeeRequest;
-import com.afry.rest.TollFeeResponce;
+import com.smr.TollCalculator;
+import com.smr.rest.TollFeeRequest;
+import com.smr.rest.TollFeeResponce;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;

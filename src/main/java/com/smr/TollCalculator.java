@@ -1,14 +1,14 @@
-package com.afry;
+package com.smr;
 
-import com.afry.service.vehicle.TollFreeVehicles;
-import com.afry.exception.NotFoundException;
-import com.afry.rest.TollFeeRequest;
-import com.afry.service.city.CityBasedTollFee;
-import com.afry.service.city.CityBasedTollFeeService;
-import com.afry.service.year.DateOnYear;
-import com.afry.service.year.DateOnYearService;
-import com.afry.service.vehicle.Vehicle;
-import com.afry.service.vehicle.VehicleService;
+import com.smr.service.vehicle.TollFreeVehicles;
+import com.smr.exception.NotFoundException;
+import com.smr.rest.TollFeeRequest;
+import com.smr.service.city.CityBasedTollFee;
+import com.smr.service.city.CityBasedTollFeeService;
+import com.smr.service.year.DateOnYear;
+import com.smr.service.year.DateOnYearService;
+import com.smr.service.vehicle.Vehicle;
+import com.smr.service.vehicle.VehicleService;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;

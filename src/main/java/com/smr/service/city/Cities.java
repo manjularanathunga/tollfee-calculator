@@ -1,4 +1,4 @@
-package com.afry.service.city;
+package com.smr.service.city;
 
 public enum Cities {
     STOCKHOLM("Stockholm"),

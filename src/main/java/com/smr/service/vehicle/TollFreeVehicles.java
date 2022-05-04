@@ -1,4 +1,4 @@
-package com.afry.service.vehicle;
+package com.smr.service.vehicle;
 
 public enum TollFreeVehicles {
     MOTORBIKE("Motorbike"),
